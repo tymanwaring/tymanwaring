@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Tyler 👋
 
-<!--
-**tymanwaring/tymanwaring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer and Full Stack Developer with 5+ years building fast, accessible, production-grade web and mobile apps. I work primarily in React, Next.js, and TypeScript, end to end through Node, GraphQL, and PostgreSQL.
 
-Here are some ideas to get you started:
+Most of my recent work lives in private company and client repositories, so this profile is a partial view. For shipped, production work, the best place to look is my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio:** https://untanglit.com
+**LinkedIn:** https://www.linkedin.com/in/tyler-manwaring-7a74b81ba/
+**Email:** atmanwaring@gmail.com
+
+**What I work with**
+- Frontend: React, Next.js (App Router, RSC), TypeScript, Tailwind CSS, Redux Toolkit, TanStack Query
+- Quality: Playwright, Vitest, Storybook, Core Web Vitals, WCAG 2.2 AA
+- Backend & infra: Node, NestJS, GraphQL, PostgreSQL, Firebase, Docker, GitHub Actions
+- AI: building LLM-powered features and AI-accelerated development workflows
+
+Currently open to senior frontend and full stack roles, remote-first.
